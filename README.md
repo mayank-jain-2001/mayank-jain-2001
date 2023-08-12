@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank Jain</h1>
-<h3 align="center">I am passionate software engineer with a drive to create innovative solutions and a commitment to lifelong learning.</h3>
+<h3 align="center">A passionate software engineer with a drive to create innovative solutions and a commitment to lifelong learning.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowsword1010" alt="snowsword1010" /></a> </p>
 
-- 🔭 I’m currently working as a Software Engineer at **SquadStack**
+- 🔭 I’m currently working as a Software Engineer at **SquadStack** <a href="https://github.com/mayank-squadstack">(Github)</a>
 
 - 🌱 I’m currently learning **Machine Learning, Cloud Computing, Reinforcement Learning**
 
